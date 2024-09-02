@@ -7,6 +7,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wewill3474)](https://solved.ac/wewill3474/)
 ### Languages
+![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
