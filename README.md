@@ -15,4 +15,4 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wewill3474)](https:
  
 # :mailbox_with_mail: Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:milestone0917@gmail.com)](mailto:milestone0917@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1dontknowwhatyouwant/)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1dontknowwhatyouwant/)(https://www.instagram.com/1dontknowwhatyouwant/]
