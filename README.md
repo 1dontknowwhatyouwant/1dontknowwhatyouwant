@@ -22,4 +22,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milestone0917@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
+
+# other
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/milestone0917/)
