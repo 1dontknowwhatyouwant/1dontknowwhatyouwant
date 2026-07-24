@@ -24,7 +24,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
 
 ### other
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/milestone0917/)
 
 <a href="https://steamcommunity.com/id/milestone0917/">
   <img src="https://img.shields.io/badge/S1LENT-Level_24-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
