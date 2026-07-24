@@ -26,4 +26,4 @@
 ### other
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/milestone0917/)
 
-[![Steam Profile](https://github-readme-steam-card.vercel.app/api?steamid=76561198426027377)](https://steamcommunity.com/id/milestone0917/)
+[![Steam Profile](https://readme-steam-card.vercel.app/api?steamid=76561198426027377)](https://steamcommunity.com/id/milestone0917/)
