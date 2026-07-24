@@ -25,3 +25,5 @@
 
 ### other
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/milestone0917/)
+
+[![Steam Profile](https://github-readme-steam-card.vercel.app/api?steamid=본인의_STEAM_ID_64)](https://steamcommunity.com/profiles/본인의_STEAM_ID_64)
