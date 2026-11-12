@@ -23,7 +23,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milestone0917@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/285643278647427072)](https://discord.com/users/285643278647427072)
+[![Discord Presence](https://lanyard.cnrad.dev/api/285643278647427072?showDisplayName=true)](https://discord.com/users/285643278647427072)
 
 ### other
 
