@@ -23,6 +23,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milestone0917@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
 
+[![hwipinkream's Discord status](https://dsc-readme.tsuni.dev/api/user/285643278647427072?theme=dracula&width=512&effect=pop&nameColor1=FB24DE&layout=compact)](https://github.com/the-snesler/discord-github-preview)
+
 ### other
 
 <a href="https://steamcommunity.com/id/milestone0917/">
