@@ -22,11 +22,18 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milestone0917@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/285643278647427072?showDisplayName=true)](https://discord.com/users/285643278647427072)
-
-### other
-
 <a href="https://steamcommunity.com/id/milestone0917/">
   <img src="https://img.shields.io/badge/S1LENT-Level_24-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
 </a>
+
+<div align="center">
+  <a href="https://discord.com/users/285643278647427072">
+    <img src="https://lanyard.cnrad.dev/api/285643278647427072?showDisplayName=true" alt="Discord Presence" />
+  </a>
+</div>
+<br />
+<br />
+<br />
+<div align="center">
+  <img src="./live-log.svg" alt="Live Concert & Fanclub Log" />
+</div>
