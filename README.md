@@ -22,9 +22,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:milestone0917@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/1dontknowwhatyouwant/)
-<a href="https://steamcommunity.com/id/milestone0917/">
-  <img src="https://img.shields.io/badge/S1LENT-Level_24-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
-</a>
+[![Steam Profile](https://img.shields.io/badge/S1LENT-Level_24-1b2838?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/milestone0917/)
+
 
 <div align="center">
   <a href="https://discord.com/users/285643278647427072">
